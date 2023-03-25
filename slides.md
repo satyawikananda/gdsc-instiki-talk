@@ -196,3 +196,39 @@ Hal-hal yang perlu diperhatikan saat ingin berkolaborasi
 <img src="https://media.tenor.com/cXcatp89g1EAAAAM/anime-boy.gif" mt5 w-50 rounded />
 
 </v-clicks>
+
+---
+growX: 0
+growY: 90
+---
+
+<div grid grid-cols-1 gap-4>
+  <img src="https://i.ibb.co/fMdXZRg/pr1.png" rounded />
+  <img src="https://pbs.twimg.com/media/EjQQt-tWAAARu_s?format=jpg&name=4096x4096" rounded />
+  <!-- <img src="https://i.ibb.co/fMdXZRg/pr1.png" rounded />
+  <img src="https://i.ibb.co/fMdXZRg/pr1.png" rounded /> -->
+  <!-- <div flex flex-col>
+  </div> -->
+</div>
+
+---
+growX: 0
+growY: 90
+---
+
+# Referensi
+Berikut merupakan referensi yang bisa kamu pelajari lebih dalam mengenai Git maupun GitHub :D
+
+- [Web Programming Unpas - Git & GitHub](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+- [Programming Zaman Now - Tutorial Git dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM)
+- [Sekolah Koding - Apa itu GitHub](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)
+
+---
+layout: 'center'
+---
+
+# Thank you :D
+
+<div flex flex-row items-center>
+  <img src="https://media.tenor.com/5Xgt3Phtx64AAAAC/thank-you-sticker-thanks-sticker.gif" />
+</div>
